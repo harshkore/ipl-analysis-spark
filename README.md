@@ -32,6 +32,9 @@ This comprehensive analysis not only highlights key performers and pivotal match
 
 ![DatabricksPySpark](databricksPyspark.PNG)
 
+### Conclusion
+This analysis has provided valuable insights into the performance dynamics of IPL teams across various seasons. 
+
 The Spark DataFrame is utilized to perform analysis on IPL data, focusing on various metrics to extract insights into player performances, team statistics, and match outcomes. This DataFrame, built on a distributed system, allows handling of large volumes of match data efficiently, leveraging Spark's capability to process data across multiple nodes.
 
 ### Script for the project
