@@ -23,3 +23,9 @@ This comprehensive analysis not only highlights key performers and pivotal match
 * Databricks
 
 ### Dataset Preview
+1. Original dataset link - https://data.world/raghu543/ipl-data-till-2017
+2. Dataset dictionary - https://data.world/raghu543/ipl-data-till-2017/workspace/data-dictionary
+
+![Ball_By_Ball](BallByBallDataset.PNG)
+
+![Match](MatchDataset.PNG)
